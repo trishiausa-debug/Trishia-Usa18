@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Physed Library 
+title: Trishia Memories 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Library where you can find resources about Physical Activities.
+tagline: A memories that worth remembering.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A Physical Activity Library is a specialized learning space that promotes health, movement, and wellness by combining educational resources with opportunities for physical engagement. It provides books, digital materials, and multimedia resources on physical education, fitness, sports, and healthy living, while also offering interactive areas for activities such as stretching, exercise, or guided fitness programs. More than a traditional library, it supports active learning, encourages lifelong physical activity, and serves as a community hub where individuals of all ages can gain knowledge, build healthy habits, and improve overall well-being.
+description: Trishia’s memories were like a treasure chest filled with moments that shaped who she is today. She remembered the joyful days of her childhood, where laughter came easily and even the smallest experiences felt special. Time spent with friends brought her happiness and taught her the value of true connection, while memories with her family gave her a deep sense of love and belonging. Along the way, she faced challenges that helped her grow stronger and successes that reminded her of what she could achieve. Every memory, whether simple or meaningful, became a lesson that guided her forward. As she continued to create new experiences, Trishia carried these memories in her heart, knowing they would always remind her of her journey, her growth, and the beautiful story she is still writing. 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
@@ -34,7 +34,7 @@ author: CollectionBuilder
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata
+metadata: metadata
 
 ##########
 # Site/Organization Branding 
